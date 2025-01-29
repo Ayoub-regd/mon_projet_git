@@ -1,2 +1,4 @@
 Mon premier fichier versionné avec Git
 Modifications sur la branche dev
+Deuxième modification depuis une autre machine.
+Deuxième modification depuis une autre machine.
