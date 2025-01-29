@@ -1,0 +1,4 @@
+8e21146 Ajout des fichiers author.txt et exercice_git.pdf
+1c5bdcd Deuxième modification sur notes.txt depuis une autre machine
+c490a40 Mise à jour du fichier notes.txt sur dev
+f11c5b5 Ajout du fichier notes.txt
